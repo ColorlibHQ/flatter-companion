@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.flatter-pt-100 {
+    padding-top: 100px;
+}
+.flatter-pt-80 {
+    padding-top: 80px;
+}
+.flatter-pt-70 {
+    padding-top: 70px;
+}
+.flatter-pt-60 {
+    padding-top: 60px;
+}
+.flatter-pt-50 {
+    padding-top: 50px;
+}
+.flatter-pt-30 {
+    padding-top: 30px;
+}
+.flatter-pb-100 {
+    padding-bottom: 100px;
+}
+.flatter-pb-80 {
+    padding-bottom: 80px;
+}
+.flatter-pb-70 {
+    padding-bottom: 70px;
+}
+.flatter-pb-60 {
+    padding-bottom: 60px;
+}
+.flatter-pb-50 {
+    padding-bottom: 50px;
+}
+.flatter-pb-30 {
+    padding-bottom: 30px;
+}
